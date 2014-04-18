@@ -2,7 +2,8 @@
 
 A talk I gave for our robotics lab on how to make good looking plots / figures.
 
-Thanks to:
+Thanks to the following folks whose resources I used either as examples of pretty things, or to make my own (somewhat) pretty things.
+
 * [Bilge Mutlu](http://pages.cs.wisc.edu/~bilge/)
 * [Ola Botvinnik](http://www.olgabotvinnik.com/) (esp [PrettyPlotLib](http://olgabot.github.io/prettyplotlib/))
 * [Cynthia Brewer](http://www.geog.psu.edu/people/brewer-cynthia) (esp [Colorbrewer](http://colorbrewer2.org/))

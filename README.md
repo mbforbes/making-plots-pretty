@@ -1,6 +1,6 @@
 # making-plots-pretty
 
-A talk I gave for our robotics lab on how to make good looking plots / figures.
+A talk I gave for our [robotics lab](https://sites.google.com/site/humancenteredrobotics/) on how to make good looking plots / figures.
 
 Thanks to the following folks whose resources I used either as examples of pretty things, or to make my own (somewhat) pretty things.
 

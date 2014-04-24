@@ -2,6 +2,8 @@
 
 A talk I gave for our [robotics lab](https://sites.google.com/site/humancenteredrobotics/) on how to make good looking plots / figures.
 
+![An example slide from the deck, showing before / after tweaking](screenshot.png)
+
 ## Acknowledgments
 
 Thanks to the following folks whose resources I used either as examples of pretty things, or to make my own (somewhat) pretty things.
